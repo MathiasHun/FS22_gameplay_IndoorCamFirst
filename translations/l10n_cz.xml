@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<l10n>
+   <texts>
+      <text name="setting_IndoorCamFirst_title" text="Vnitřní kamera jako první"/>
+      <text name="setting_IndoorCamFirst_label" text="Pohled zevnitř"/>
+      <text name="setting_IndoorCamFirst_description" text="Po zapnutí nastaví vnitřní kameru jako výchozí pro všechna vozidla."/>
+      <text name="setting_IndoorCamFirst_selection_on" text="Zapnout"/>
+      <text name="setting_IndoorCamFirst_selection_off" text="Vypnout"/>
+   </texts>
+</l10n>
